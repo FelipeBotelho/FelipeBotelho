@@ -1,8 +1,8 @@
 ## Olá, eu sou o Felipe Botelho 👋
 
 - 🔭 Desenvolvedor .NET
-- 😎 Desenvolvedor Front-End com foco em Angular 2+ e React
-- 🌱 Estudando Next.Js
+- 😎 Desenvolvedor Front-End com foco em Angular 2+, React e Next.JS
+
 
  <div>
   <a href="https://github.com/FelipeBotelho">
